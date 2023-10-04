@@ -79,9 +79,9 @@ function HomeContainer({ selectedPage, setSelectedPage }) {
       title: "home",
       home: <HomeComponent />,
       textboxTitle: "Hello, World!",
-      textboxTitle2: "My name is David and im a (Full Stack) Web Developer",
+      textboxTitle2: "My name is David and I'm a (Full Stack) Web Developer",
       textboxText:
-        "Feel free to explore my person, skills and projects, as well as past and future ventures",
+        "Feel free to explore my skills, projects and past and ventures",
     };
   } else if (selectedPage === "webdev") {
     contentProps = {
@@ -91,7 +91,7 @@ function HomeContainer({ selectedPage, setSelectedPage }) {
       )),
       textboxTitle: "Discover my development skillset and experience",
       textboxTitle2:
-        "I'm, passionate about UI/UX, pixel-perfect frontend designs and intuitive backend solutions ",
+        "I'm, passionate about UI/UX, modern frontend designs and intuitive backend solutions",
       textboxText: "",
     };
   } else if (selectedPage === "projects") {

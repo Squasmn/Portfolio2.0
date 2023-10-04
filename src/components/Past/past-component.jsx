@@ -12,21 +12,21 @@ function PastComponent() {
           city of origin, Düsseldorf.
         </p>
         <p>
-          I did an apprenticeship as clerk for office management, during which i
-          was already heavily involved in the auction management, partly leading
-          the departmentas a stand-in for longer periods.
-        </p>{" "}
-        <p>
-          {" "}
-          I was offered a permanent position as a numismatic. Again quickly
-          climbing up the internal ladder, I was soon responsible for the entire
-          numismatic department as a stand-in. I was in charge of the aquisition
-          of new items, the creation of the auction catalogues and for the
-          customer service.
+          I did an apprenticeship as clerk for office management with this
+          employer. Thereby already being heavily involved in the auction
+          management, for periods leading the department.
         </p>
         <p>
-          I aquired an extra qualification in international marketing and sales
-          management, which drew me towards webdevelopment as a new career path.
+          In consequence, I was offered a permanent position as a numismatic.
+          Quickly climbing up the internal ladder, I was soon responsible for
+          the entire numismatic department as a stand-in. I was in charge of the
+          aquisition of new items, the creation of the auction catalogues and
+          for the customer service.
+        </p>
+        <p>
+          I acquired an extra qualification in international marketing and sales
+          management, which drew me towards webdevelopment as a new carreer
+          path.
         </p>
       </div>
       <div className="past-content-2">

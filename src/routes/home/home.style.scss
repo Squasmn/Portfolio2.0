@@ -111,6 +111,9 @@ h1 {
   margin-left: 5%;
   line-height: 2rem;
   margin-bottom: 5%;
+  h2 {
+    text-shadow: 1px 1px 1px $pink;
+  }
 }
 .skillsCard-container {
   display: flex;
