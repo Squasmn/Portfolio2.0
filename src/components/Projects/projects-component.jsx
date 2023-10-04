@@ -1,6 +1,6 @@
 import "./projects.style.scss";
-import picture1 from "../../assets/projects/tictactoe.png";
-import picture2 from "../../assets/projects/blog.png";
+import tictactoe from "../../assets/projects/tictactoe.jpg";
+import blog from "../../assets/projects/blog.jpg";
 export default function ProjectsComponent() {
   return (
     <div className="projects-content-container">
@@ -14,10 +14,10 @@ export default function ProjectsComponent() {
         <h2>React and NextJS Tutorials</h2>
         <div className="projects-container-2-1">
           <div className="project-2">
-            <img src={picture1} alt="" />
+            <img src={tictactoe} alt="" />
           </div>
           <div className="project-3">
-            <img src={picture2} alt="" />
+            <img src={blog} alt="" />
           </div>
         </div>
         <div className="projects-container-2-2">
