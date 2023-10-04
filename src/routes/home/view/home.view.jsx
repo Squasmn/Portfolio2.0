@@ -5,6 +5,7 @@ import { ReactComponent as BarcodeIcon } from "../../../assets/svg/icons/barcode
 import { ReactComponent as CopyrightIcon } from "../../../assets/svg/icons/copyright-regular.svg";
 import { ReactComponent as DavDevIcon } from "../../../assets/svg/icons/isolated-monochrome-white.svg";
 import SocialsComponent from "../../../components/Socials/socials-component";
+import picture from "../../../assets/david/DavDevDefinitive2.png";
 
 function HomeView({
   onNavClick,
@@ -23,10 +24,7 @@ function HomeView({
       <div className="main-container">
         <div className="sidebar-container">
           <div className="logo-container">
-            <img
-              src="./src/assets/david/DavDevDefinitive.png"
-              alt="Profile Picture Dav.Dev"
-            />
+            <img src={picture} alt="Profile Picture Dav.Dev" />
           </div>
           <div className="navbar-container">
             <NavbarComponent onNavClick={onNavClick} />
