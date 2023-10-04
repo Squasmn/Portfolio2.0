@@ -24,7 +24,7 @@ function HomeView({
         <div className="sidebar-container">
           <div className="logo-container">
             <img
-              src="./src\assets\david\DavDevDefinitive2.png"
+              src="./src/assets/david/DavDevDefinitive2.png"
               alt="Profile Picture Dav.Dev"
             />
           </div>
