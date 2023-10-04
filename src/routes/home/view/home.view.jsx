@@ -5,7 +5,6 @@ import { ReactComponent as BarcodeIcon } from "../../../assets/svg/icons/barcode
 import { ReactComponent as CopyrightIcon } from "../../../assets/svg/icons/copyright-regular.svg";
 import { ReactComponent as DavDevIcon } from "../../../assets/svg/icons/isolated-monochrome-white.svg";
 import SocialsComponent from "../../../components/Socials/socials-component";
-import "./src/assets/david/DavDevDefinitive2.png";
 
 function HomeView({
   onNavClick,
